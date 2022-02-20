@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-10 0 2064 2048"
+   id="svg6"
+   sodipodi:docname="helikopterlandingsplads.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.40625"
+     inkscape:cx="1032.6154"
+     inkscape:cy="1025.2308"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     d="M 0,1025 Q 0,817 81,628 162,439 298,301 431,166 627,84 821,3 1022,3 q 207,0 397,81 189,81 327,217 135,134 217,328 81,193 81,396 0,208 -81.5,396.5 Q 1881,1610 1746,1748 q -133,135 -327,218 -189,81 -398,81 -208,0 -396,-81 Q 437,1885 299,1749 167,1619 81,1421 40,1327 20,1228 0,1129 0,1025 Z"
+     id="path834" />
+  <path
+     d="M 1873,1022 Q 1871,842 1807,694 1738,534 1626,420 1514,307 1354,240 1199,174 1028,174 h -10 q -180,2 -328,66 -160,69 -273,181 -116,115 -182,272 -65,155 -65,333 0,177 65,332 65,154 183,272 117,117 272,182 152,64 326,65 182,0 338,-65 156,-65 273,-183 116,-117 180,-271 66,-159 66,-326 z"
+     id="path832"
+     style="fill:#ffffff" />
+  <path
+     d="m 1021,1644 q -256,-1 -438,-184 -85,-85 -133,-197 -50,-114 -50,-242 0,-128 49,-242 49,-113 134,-197 183,-183 438,-183 254,0 436,183 85,85 135,197 50,114 50,242 0,256 -183.5,439.5 Q 1275,1644 1021,1644 Z"
+     id="path836"
+     style="fill:#000000" />
+  <path
+     d="m 1021,1596 q 233,0 403,-170 170,-170 170,-405 0,-118 -46,-222.5 Q 1502,694 1424,615 1255,447 1021,447 q -235,0 -405,168 -78,78 -123,184 -45,103 -45,222 0,113 46,222 44,105 122,184 171,169 405,169 z"
+     id="path838"
+     style="fill:#ffffff" />
+  <path
+     d="M 1283,1366 Z"
+     id="path830" />
+  <path
+     d="M 1283,1366 H 1140 V 1074 H 885 v 292 H 742 V 679 h 143 v 255 h 255 V 679 h 143 z"
+     id="path2" />
+</svg>
