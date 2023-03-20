@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4.5693502mm"
+   height="3.0003958mm"
+   viewBox="0 0 4.5693502 3.0003958"
+   version="1.1"
+   id="svg9482"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="brandtaeppe.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9484"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.74118967"
+     inkscape:cx="-80.276348"
+     inkscape:cy="68.808298"
+     inkscape:window-width="1285"
+     inkscape:window-height="1040"
+     inkscape:window-x="527"
+     inkscape:window-y="4"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs9479" />
+  <g
+     inkscape:label="Lag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-126.10341,-129.64117)">
+    <path
+       class="cls-3"
+       d="m 130.53518,129.64117 h -4.29419 a 0.13758333,0.13758333 0 0 0 -0.13758,0.13758 v 2.72785 a 0.1349375,0.1349375 0 0 0 0.13758,0.13494 h 4.29419 a 0.1349375,0.1349375 0 0 0 0.13758,-0.13494 v -2.72785 a 0.13758333,0.13758333 0 0 0 -0.13758,-0.13758 z"
+       id="path6192"
+       style="fill:#ffffff;stroke-width:0.264583" />
+    <path
+       class="cls-9"
+       d="m 130.53518,129.64117 h -4.29419 a 0.13758333,0.13758333 0 0 0 -0.13758,0.13758 v 2.72521 a 0.13758333,0.13758333 0 0 0 0.13758,0.13758 h 4.29419 a 0.13758333,0.13758333 0 0 0 0.13758,-0.13758 v -2.72521 a 0.13758333,0.13758333 0 0 0 -0.13758,-0.13758 z m -4.1566,0.26458 h 4.02166 v 0.55033 l -1.85208,1.905 h -2.16958 z"
+       id="path6194"
+       style="fill:#ed2224;stroke-width:0.264583" />
+  </g>
+</svg>

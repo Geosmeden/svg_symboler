@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4.5032086mm"
+   height="4.503212mm"
+   viewBox="0 0 4.5032086 4.503212"
+   version="1.1"
+   id="svg8087"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="branddoer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8089"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.947377"
+     inkscape:cx="126.89249"
+     inkscape:cy="19.508872"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs8084" />
+  <g
+     inkscape:label="Lag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-71.284454,-114.83493)">
+    <circle
+       class="cls-3"
+       cx="73.538704"
+       cy="117.08389"
+       r="2.2489583"
+       id="circle1534"
+       style="fill:#ffffff;stroke-width:0.264583" />
+    <path
+       class="cls-9"
+       d="m 73.538704,115.21065 a 1.8758958,1.8758958 0 1 1 -1.875896,1.87589 1.8785416,1.8785416 0 0 1 1.875896,-1.87589 m 0,-0.37571 a 2.2516041,2.2516041 0 1 0 2.248958,2.2516 2.2516041,2.2516041 0 0 0 -2.248958,-2.2516 z"
+       id="path1536"
+       style="fill:#ed2224;stroke-width:0.264583" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="72.281937"
+       y="118.17303"
+       id="text2658"><tspan
+         sodipodi:role="line"
+         id="tspan2656"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="72.281937"
+         y="118.17303">X</tspan></text>
+  </g>
+</svg>

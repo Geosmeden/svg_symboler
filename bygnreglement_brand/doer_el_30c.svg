@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="0.93397897mm"
+   height="2.5452917mm"
+   viewBox="0 0 0.93397897 2.5452917"
+   version="1.1"
+   id="svg7977"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="doer_el_30c.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7979"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="4.1691988"
+     inkscape:cx="65.480207"
+     inkscape:cy="58.644362"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs7974" />
+  <g
+     inkscape:label="Lag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(19.295396,0.31550133)">
+    <circle
+       class="cls-3"
+       cx="-18.5625"
+       cy="1.070912"
+       r="2.2489583"
+       id="circle1528"
+       style="fill:#ffffff;stroke-width:0.264583" />
+    <path
+       class="cls-9"
+       d="m -18.5625,-0.80498049 a 1.8758958,1.8758958 0 1 1 -1.875896,1.87589579 1.8785416,1.8785416 0 0 1 1.875896,-1.87589579 m 0,-0.37306251 a 2.2489583,2.2489583 0 1 0 2.248958,2.2489583 2.2489583,2.2489583 0 0 0 -2.248958,-2.2489583 z"
+       id="path1530"
+       style="fill:#ed2224;stroke-width:0.264583" />
+    <path
+       class="cls-7"
+       d="M -18.361417,2.2297903 H -18.67098 V 0.24541533 a 1.6880416,1.6880416 0 0 1 -0.296333,0.2143125 1.952625,1.952625 0 0 1 -0.328083,0.16139583 V 0.3221445 a 1.8758958,1.8758958 0 0 0 0.457729,-0.29897916 1.1641667,1.1641667 0 0 0 0.264583,-0.33866667 H -18.372 Z"
+       id="path1532"
+       style="fill:#010101;stroke-width:0.264583" />
+  </g>
+</svg>
