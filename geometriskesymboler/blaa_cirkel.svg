@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new 0 0 579.997 579.997"
+   height="314.96399"
+   viewBox="0 0 317.84698 314.96398"
+   width="317.84698"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="blaa_cirkel.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.4344902"
+     inkscape:cx="158.94149"
+     inkscape:cy="157.89582"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 158.927,5.9499998 C 74.442,5.9499998 5.9499998,73.792 5.9499998,157.482 c 0,83.687 68.4910002,151.532 152.9770002,151.532 84.482,0 152.97,-67.846 152.97,-151.532 0,-83.69 -68.487,-151.5320002 -152.97,-151.5320002 z"
+     fill="param(fill) #000"
+     fill-opacity="1"
+     stroke="param(outline) #FFF"
+     stroke-opacity="255"
+     stroke-width="param(outline-width) 0"
+     id="path2"
+     style="fill:#0066ff;stroke:#494949;stroke-width:11.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>
