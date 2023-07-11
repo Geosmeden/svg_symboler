@@ -21,9 +21,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1.5395044"
-     inkscape:cx="106.52779"
-     inkscape:cy="50.990436"
+     inkscape:zoom="1.5"
+     inkscape:cx="110"
+     inkscape:cy="52.333333"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
@@ -42,7 +42,7 @@
      rx="47.836811"
      ry="47.29932" />
   <path
-     style="fill:#328b32;stroke:none;fill-opacity:1"
+     style="fill:#00aa00;stroke:none;fill-opacity:1"
      d="m 31.636936,81.694112 h 34 v -38 c 0,-6.0079 1.0871,-13.3006 -1.1481,-18.999995 -4.7481,-12.1068 -22.9726,-13.4926 -30.149,-2.9846 -3.719,5.445595 -2.7029,12.740595 -2.7029,18.984595 z"
      id="path22" />
 </svg>
