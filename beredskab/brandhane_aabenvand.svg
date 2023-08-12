@@ -26,7 +26,7 @@
      inkscape:cy="50.753541"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg60"
@@ -42,10 +42,10 @@
      rx="47.836811"
      ry="47.29932" />
   <ellipse
-     style="opacity:0.860976;fill:#4891eb;stroke:#555555;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+     style="opacity:0.860976;fill:#0055d4;fill-opacity:1;stroke:#555555;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path1983-7"
      cx="48.705658"
      cy="48.168167"
-     rx="33.363392"
-     ry="32.988522" />
+     rx="27.851696"
+     ry="28.395441" />
 </svg>
