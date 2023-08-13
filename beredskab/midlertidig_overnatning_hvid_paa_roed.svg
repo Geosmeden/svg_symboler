@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new 0 0 580 580"
+   height="580"
+   viewBox="0 0 580 580"
+   width="580"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="midlertidig_overnatning_hvid_paa_roed.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.67558805"
+     inkscape:cx="424.81509"
+     inkscape:cy="313.0606"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     d="M 470.747,105.791 C 422.539,57.583 358.443,31.034 290.267,31.034 c -68.177,0 -132.272,26.549 -180.48,74.757 -48.208,48.208 -74.758,112.304 -74.758,180.48 0,68.176 26.549,132.272 74.758,180.48 48.208,48.208 112.304,74.758 180.48,74.758 68.176,0 132.272,-26.55 180.48,-74.758 48.208,-48.208 74.758,-112.304 74.758,-180.48 0,-68.177 -26.55,-132.272 -74.758,-180.48 z"
+     fill="param(fill)"
+     fill-opacity="param(fill-opacity)"
+     stroke="param(outline)"
+     stroke-opacity="param(outline-opacity)"
+     stroke-width="param(outline-width)"
+     id="path4"
+     style="fill:#aa0000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:25;stroke-miterlimit:4;stroke-dasharray:none"
+     sodipodi:nodetypes="sssscssss" />
+  <g
+     id="g1736"
+     transform="matrix(0.75303396,0,0,0.75303396,72.316816,34.926474)"
+     style="fill:#ffffff">
+    <g
+       id="g1079"
+       style="fill:#ffffff">
+      <path
+         d="m 536.36276,247.89486 c -0.12001,-2.6e-4 -0.23901,4.6e-4 -0.358,0.002 -9.72798,0.14104 -17.59818,8.04797 -17.64751,17.82071 L 518.02232,338.22565 63.911156,334.8112 63.678313,196.107 c -0.01643,-9.8938 -8.051362,-17.90116 -17.945163,-17.88472 -0.07801,1.3e-4 -0.155998,10e-4 -0.23399,0.002 -9.784972,0.14187 -17.666039,8.12696 -17.649736,17.94275 l 0.418698,249.54216 c 0.01643,9.8938 8.051363,17.90116 17.945164,17.88472 0.07801,-1.3e-4 0.155998,-10e-4 0.23399,-0.002 9.784972,-0.14187 17.666039,-8.12696 17.649736,-17.94275 l -0.125433,-75.00907 453.171051,2.02275 0.38116,72.2668 c 0.0522,9.89477 7.92913,17.95494 17.82291,18.00651 0.12002,2.6e-4 0.23904,5.4e-4 0.35803,-10e-4 9.72797,-0.14104 17.59817,-8.04797 17.6475,-17.82071 l 0.83345,-179.21288 c 0.0506,-9.89477 -7.93014,-17.95592 -17.82292,-18.00651 z"
+         fill="param(fill)"
+         fill-opacity="param(fill-opacity)"
+         stroke="param(outline)"
+         stroke-opacity="param(outline-opacity)"
+         stroke-width="param(outline-width)"
+         id="path2"
+         sodipodi:nodetypes="ccccccscccsccccscccccc"
+         style="fill:#ffffff" />
+    </g>
+    <path
+       d="m 254.76985,327.70505 207.93497,0.0873 c 23.707,0.01 43.0021,-19.26895 43.01204,-42.97695 0.01,-23.707 -19.26895,-43.00209 -42.97595,-43.01205 l -207.93497,-0.0873 c -23.708,-0.01 -43.0031,19.26894 -43.01305,42.97594 -0.01,23.708 19.26896,43.00309 42.97696,43.01304 z"
+       fill="param(fill)"
+       fill-opacity="param(fill-opacity)"
+       stroke="param(outline)"
+       stroke-opacity="param(outline-opacity)"
+       stroke-width="param(outline-width)"
+       id="path4-9"
+       style="fill:#ffffff" />
+    <path
+       d="m 160.5156,249.83994 h 0.0176 c 11.2754,-0.003 21.88044,-4.17995 29.86386,-11.75644 8.0292,-7.62049 12.44943,-17.76482 12.44474,-28.59573 -0.009,-22.2164 -18.99584,-40.28931 -42.34148,-40.28931 -11.27423,0.003 -21.88044,4.17996 -29.86386,11.75644 -8.0292,7.6205 -12.44943,17.76482 -12.44474,28.59574 0.008,22.21514 18.99584,40.2893 42.32387,40.2893 z"
+       fill="param(fill)"
+       fill-opacity="param(fill-opacity)"
+       stroke="param(outline)"
+       stroke-opacity="param(outline-opacity)"
+       stroke-width="1.21505"
+       id="path6"
+       style="fill:#ffffff" />
+    <path
+       d="m 94.731,319.279 h 89.572 c 12.083,0 21.914,-9.83 21.914,-21.913 0,-12.083 -9.831,-21.914 -21.914,-21.914 H 94.731 c -12.083,0 -21.913,9.831 -21.913,21.914 0,12.083 9.83,21.913 21.913,21.913 z"
+       fill="param(fill)"
+       fill-opacity="param(fill-opacity)"
+       stroke="param(outline)"
+       stroke-opacity="param(outline-opacity)"
+       stroke-width="param(outline-width)"
+       id="path8"
+       style="fill:#ffffff" />
+  </g>
+</svg>
