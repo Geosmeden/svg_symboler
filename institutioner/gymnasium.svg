@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg"
+   width="34.052704"
+   height="34.052704"
+   viewBox="0 0 34.052704 34.052705"
+   version="1.1"
+   sodipodi:docname="gymnasium_final.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="6.492175"
+     inkscape:cx="-13.862843"
+     inkscape:cy="31.191396"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg" />
+  <circle
+     style="fill:#668000;fill-opacity:1;stroke:#ffffff;stroke-width:2.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4690"
+     cx="17.026352"
+     cy="17.026352"
+     r="15.726353" />
+  <g
+     id="svgg"
+     transform="matrix(0.05745827,0,0,0.05745827,5.6025741,4.2782477)"
+     style="fill:#ffffff">
+    <path
+       id="path0"
+       d="m 192.491,10.145 c -47.267,6.67 -69.478,63.004 -39.472,100.115 35.602,44.033 106.318,21.773 109.998,-34.625 2.555,-39.15 -31.709,-70.967 -70.526,-65.49 m -62.803,139.171 c -11.188,1.885 -26.654,12.836 -30.749,21.773 -0.49,1.071 -21.7,30.66 -47.131,65.753 -47.136,65.043 -48.925,67.668 -50.746,74.486 -4.534,16.975 8.036,36.811 26.282,41.474 8.417,2.151 12.823,1.342 46.281,-8.499 16.646,-4.896 30.445,-8.722 30.664,-8.503 0.219,0.219 0.398,12.644 0.398,27.611 l 0.001,27.214 H 200 295.313 v -27.298 c 0,-15.013 0.263,-27.437 0.585,-27.609 0.323,-0.171 14.122,3.694 30.665,8.59 33.27,9.846 37.646,10.652 46.093,8.494 18.246,-4.663 30.816,-24.499 26.282,-41.474 -1.83,-6.852 -3.755,-9.68 -49.899,-73.335 -24.931,-34.391 -47.156,-65.359 -49.389,-68.816 -5.398,-8.359 -13.846,-14.891 -24.003,-18.562 l -4.944,-1.787 -68.359,-0.118 c -38.975,-0.067 -70.207,0.193 -72.656,0.606 m 22.771,57.702 47.655,15.612 47.524,-15.612 c 26.138,-8.586 47.733,-15.612 47.99,-15.612 0.256,0 0.466,16.681 0.466,37.068 v 37.067 l -4.458,-1.534 c -27.644,-9.511 -51.879,6.871 -50.023,33.814 0.842,12.212 17.33,30.304 27.618,30.304 3.77,0 -2.747,2.466 -34.08,12.892 l -35.161,11.701 -35.347,-11.813 c -24.92,-8.329 -34.885,-11.979 -33.784,-12.374 24.147,-8.658 33.822,-29.993 23.125,-50.992 -7.337,-14.403 -26.535,-20.098 -45.62,-13.532 l -4.458,1.534 v -37.067 c 0,-20.387 0.202,-37.068 0.449,-37.068 0.247,0 21.894,7.026 48.104,15.612"
+       stroke="none"
+       fill="#000000"
+       fill-rule="evenodd"
+       style="fill:#ffffff" />
+  </g>
+</svg>
