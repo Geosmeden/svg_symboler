@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg"
+   version="1.1"
+   width="253.26225"
+   height="51.352589"
+   viewBox="0 0 253.26226 51.352587"
+   sodipodi:docname="spaerring_kort.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0.3"
+     lock-margins="true"
+     fit-margin-left="0.3"
+     fit-margin-right="0.3"
+     fit-margin-bottom="0.3"
+     inkscape:zoom="1.8791363"
+     inkscape:cx="208.07432"
+     inkscape:cy="117.8733"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg" />
+  <path
+     id="path0"
+     d="m 2.658195,48.915514 c 0,0 250.036795,0.162673 250.211795,-0.294327 0.21,-0.548 -0.41916,-45.488099 -0.63116,-45.700099 C 252.01983,2.702088 2.591745,2.7792854 2.591745,2.7792854 m 99.967315,2.3783016 0.375,0.101 v 20.81 20.811 l -0.375,0.09 c -0.206,0.05 -11.062004,0.07 -24.125004,0.045 l -23.75,-0.045 -0.046,-20.584 c -0.025,-11.321 -0.005,-20.752 0.045,-20.958 l 0.091,-0.375 23.705,0.002 c 13.038,0.002 23.874004,0.048 24.080004,0.103 m 98.053,0.068 c 0.316,0.169 0.322,0.578 0.322,20.913 v 20.741 l -0.375,0.09 c -0.206,0.05 -11.363,0.07 -24.792,0.045 l -24.416,-0.045 -0.043,-20.75 c -0.024,-11.413 -0.007,-20.844 0.036,-20.959 0.104,-0.273 48.757,-0.309 49.268,-0.035 m 49.905,41.744 -0.043,-20.75 c -0.023,-11.413 -0.007,-20.844 0.037,-20.959"
+     stroke="none"
+     fill="#de1f35"
+     fill-rule="evenodd"
+     sodipodi:nodetypes="ccscccccccccsccccscccccccccc" />
+  <path
+     id="path1"
+     d="m 0.3,50.3 99.294456,0.752587 153.245534,-0.09407 c 0.12511,-28.432548 0.14982,-28.268215 0.0941,-50.0940767 L 99.594486,1.052587 0.3,0.3 m 250.18665,3.2174036 c 0.212,0.212 0.26196,44.6465134 0.052,45.1945134 -0.17504,0.457 -247.880455,0.203597 -247.880455,0.203597 L 2.591745,2.7792854 m 52.046311,23.6063016 0.046,20.584 23.75,0.045 c 13.063,0.025 23.919004,0.005 24.125004,-0.045 l 0.375,-0.09 v -20.811 -20.81 l -0.375,-0.101 c -0.206,-0.055 -11.042004,-0.101 -24.080004,-0.103 l -23.705,-0.002 m 96.570004,0.208 c -0.043,0.115 -0.06,9.546 -0.036,20.959 l 0.043,20.75 24.416,0.045 c 13.429,0.025 24.586,0.005 24.792,-0.045 l 0.375,-0.09 v -20.741 c 0,-20.335 -0.006,-20.744 -0.322,-20.913 -0.511,-0.274 -49.164,-0.238 -49.268,0.035"
+     stroke="none"
+     fill="#fcf9f9"
+     fill-rule="evenodd"
+     style="fill:#ffffff"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccscc" />
+</svg>
