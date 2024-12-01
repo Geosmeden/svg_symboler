@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg"
+   version="1.1"
+   width="421.01492"
+   height="421.01492"
+   viewBox="0 0 421.01492 421.01492"
+   sodipodi:docname="kolonne2_virksomhed_dia.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     lock-margins="true"
+     inkscape:zoom="0.72831998"
+     inkscape:cx="249.89017"
+     inkscape:cy="264.99342"
+     inkscape:window-width="1276"
+     inkscape:window-height="1032"
+     inkscape:window-x="2010"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#ff0303;stroke-width:35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1148"
+     width="261.2883"
+     height="261.2883"
+     x="167.05836"
+     y="-130.64415"
+     transform="rotate(45)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+     x="154.59926"
+     y="282.08951"
+     id="text1826"><tspan
+       sodipodi:role="line"
+       id="tspan1824"
+       x="154.59926"
+       y="282.08951">II</tspan></text>
+</svg>

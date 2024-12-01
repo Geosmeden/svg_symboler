@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg"
+   version="1.1"
+   width="402.55682"
+   height="402.55682"
+   viewBox="0 0 402.55682 402.55682"
+   sodipodi:docname="bess_anlaeg.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     lock-margins="true"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     inkscape:zoom="0.72831999"
+     inkscape:cx="-177.11995"
+     inkscape:cy="334.33107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg" />
+  <rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1113"
+     width="258.23645"
+     height="258.23645"
+     x="-413.76889"
+     y="-129.11823"
+     transform="rotate(-135)" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 18.677672,201.27841 c 365.201488,0 365.201488,0 365.201488,0"
+     id="path1546" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 201.27841,31.299031 V 198.70806"
+     id="path1603"
+     sodipodi:nodetypes="cc" />
+  <path
+     id="rect2672"
+     style="stroke:#000000;stroke-width:0"
+     d="M 90.225842,125.8757 140.71127,85.099007 V 207.02548 H 90.225842 Z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="rect2672-5"
+     style="stroke:#000000;stroke-width:0"
+     d="m 261.06363,76.569658 50.48543,54.648382 v 66.66231 h -50.48543 z"
+     sodipodi:nodetypes="ccccc" />
+</svg>
