@@ -28,7 +28,7 @@
      fit-margin-left="3"
      fit-margin-right="3"
      inkscape:zoom="1.32875"
-     inkscape:cx="327.37535"
+     inkscape:cx="287.86453"
      inkscape:cy="255.50329"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -50,14 +50,12 @@
      height="223.51834"
      x="23"
      y="23" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#4d4d4d"
-     x="159.33145"
-     y="202.30605"
-     id="text1852"><tspan
-       sodipodi:role="line"
-       id="tspan1850"
-       x="159.33145"
-       y="202.30605">T</tspan></text>
+  <g
+     aria-label="T"
+     id="text1852"
+     style="font-size:192px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#4d4d4d">
+    <path
+       d="m 263.58145,87.837296 h -30.375 v 99.843754 q 0,8.625 -3.84375,12.84375 -3.84375,4.125 -9.9375,4.125 -6.1875,0 -10.125,-4.21875 -3.84375,-4.21875 -3.84375,-12.75 V 87.837296 h -30.375 q -7.125,0 -10.59375,-3.09375 -3.46875,-3.1875 -3.46875,-8.34375 0,-5.34375 3.5625,-8.4375 3.65625,-3.09375 10.5,-3.09375 h 88.5 q 7.21875,0 10.6875,3.1875 3.5625,3.1875 3.5625,8.34375 0,5.15625 -3.5625,8.34375 -3.5625,3.09375 -10.6875,3.09375 z"
+       id="path824" />
+  </g>
 </svg>
