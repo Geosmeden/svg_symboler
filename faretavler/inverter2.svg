@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg2"
+   sodipodi:docname="inverter2.svg"
+   inkscape:export-filename="/home/yves/Bureau/yves_guillou_corrosif.png"
+   viewBox="0 0 155.93 155.93"
+   sodipodi:version="0.32"
+   inkscape:export-xdpi="196"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-ydpi="196"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:guide-bbox="true"
+     pagecolor="#ffffff"
+     inkscape:window-height="1009"
+     inkscape:zoom="0.15441362"
+     inkscape:window-x="-8"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="-511.6129"
+     inkscape:cy="-702.65822"
+     showguides="true"
+     inkscape:window-y="-8"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:pagecheckerboard="0"
+     inkscape:window-maximized="1" />
+  <g
+     id="layer1"
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     transform="translate(-196.32 -408.65)">
+    <g
+       id="g1049"
+       transform="translate(-242.70307,-38.924077)">
+      <g
+         id="g2479"
+         transform="translate(439.02307,447.00166)">
+        <path
+           id="path2481"
+           style="fill:#000000"
+           d="M 155.93,155.93 V 0 H 0 v 155.93 z" />
+        <path
+           id="path2483"
+           style="fill:#ff9900"
+           d="M 150.83,150.83 V 5.1 L 5.1,5.1011 l 0.0011,145.73 h 145.73 z" />
+      </g>
+    </g>
+    <path
+       id="path0"
+       d="m 246.23901,417.17786 c -0.60644,0.7977 -0.63801,1.25039 -0.63801,9.13487 v 7.60224 l 0.6135,0.16526 c 0.70337,0.18939 8.10841,0.14446 8.41069,-0.0512 0.14446,-0.0936 0.18569,-1.83418 0.18569,-7.8752 0,-8.31154 -0.02,-8.53956 -0.79844,-9.04796 -0.31009,-0.2024 -7.61634,-0.13481 -7.77343,0.0721 m 49.76306,0 c -0.60643,0.7977 -0.638,1.25039 -0.638,9.13486 v 7.60224 l 0.61349,0.16526 c 0.70337,0.1894 8.10841,0.14446 8.41071,-0.0512 0.14446,-0.0936 0.18568,-1.83418 0.18568,-7.87519 0,-8.31154 -0.02,-8.53957 -0.79843,-9.04797 -0.3101,-0.20239 -7.61636,-0.1348 -7.77345,0.0721 m -68.94747,22.7848 c -2.65306,0.41684 -3.56698,1.89674 -3.77493,4.2878 l -0.0724,45.48752 -0.0724,45.48715 c 0.42673,3.9973 4.03446,7.47922 7.68579,8.19607 1.77439,0.3086 85.1253,0.3086 86.89968,0 4.66778,-1.69283 6.524,-4.05602 7.61599,-8.01594 l 0.0494,-45.94877 0.0494,-45.94876 c -0.35373,-2.02245 -1.8769,-3.5666 -3.8882,-3.58183 -1.32689,-0.31232 -93.33807,-0.27667 -94.49227,0.0368 m 78.67801,23.55426 c 0.13146,0.13147 0.17826,1.46913 0.17826,5.09515 0,3.62602 -0.0468,4.96368 -0.17826,5.09514 -0.1374,0.1374 -7.62155,0.17826 -32.78198,0.17826 h -32.60372 l -0.34389,-0.32309 -0.34388,-0.32272 v -4.6068 c 0,-4.52509 0.005,-4.61273 0.32309,-4.95031 l 0.32271,-0.34388 h 32.62489 c 25.1764,0 32.66538,0.0409 32.80278,0.17825 M 264.72159,497.72 c 5.38815,1.46738 11.03105,4.53388 14.67379,8.02856 5.32598,5.1666 12.97067,5.91853 17.52589,-0.81663 1.93964,-2.96685 3.31183,-3.95914 4.72154,-3.41323 2.33327,1.33669 6.33324,2.67001 7.53837,4.66251 0.71403,2.81426 -0.95724,3.90699 -2.08151,6.01464 -4.75505,6.8849 -12.41593,9.95716 -18.94005,9.96747 -3.39354,-3.8e-4 -4.36244,-0.12887 -7.5016,-0.99378 -2.5186,-0.69445 -6.74327,-3.3642 -9.82709,-6.21073 -0.97372,-0.8987 -2.15207,-1.91438 -2.61887,-2.25679 -3.22422,-2.57852 -8.66726,-3.28094 -11.84472,-1.78961 -3.21104,1.12043 -5.11597,7.24015 -8.05791,7.24015 -1.07808,0 -1.88357,-0.34574 -6.19921,-2.66046 -3.44703,-1.84866 -3.52798,-3.62824 -0.35317,-7.73778 2.78261,-3.67965 8.93078,-8.48882 13.15824,-9.50513 3.54752,-0.70242 4.94855,-1.21398 9.8063,-0.52919"
+       stroke="none"
+       fill="#080808"
+       fill-rule="evenodd"
+       sodipodi:nodetypes="cscccscccscccsccccccccccccccssscccsccsccccccccccccccccc"
+       style="stroke-width:0.999994" />
+  </g>
+  <metadata
+     id="metadata17">
+    <rdf:RDF />
+  </metadata>
+</svg>
