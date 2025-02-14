@@ -5,7 +5,7 @@
    width="438.8504"
    height="269.51834"
    viewBox="0 0 438.8504 269.51833"
-   sodipodi:docname="kælderpladser.svg"
+   sodipodi:docname="kaelderpladser.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -50,14 +50,12 @@
      height="223.51834"
      x="23"
      y="23" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#333333"
-     x="145.69083"
-     y="203.47792"
-     id="text4216"><tspan
-       sodipodi:role="line"
-       id="tspan4214"
-       x="145.69083"
-       y="203.47792">K</tspan></text>
+  <g
+     aria-label="K"
+     id="text4216"
+     style="font-size:192px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#333333">
+    <path
+       d="m 188.72208,80.571671 v 48.187499 l 54.65625,-56.999999 q 3.9375,-4.125 6.65625,-6.09375 2.8125,-1.96875 7.40625,-1.96875 6,0 9.65625,3.5625 3.75,3.46875 3.75,8.53125 0,6.09375 -6.28125,12.09375 l -33.84375,32.062499 39,55.875 q 4.125,5.8125 6.1875,10.21875 2.0625,4.3125 2.0625,8.4375 0,4.59375 -3.65625,7.96875 -3.5625,3.375 -9.75,3.375 -5.8125,0 -9.46875,-2.4375 -3.65625,-2.53125 -6.1875,-6.65625 -2.53125,-4.125 -4.5,-7.5 l -32.90625,-50.625 -22.78125,21.84375 v 28.40625 q 0,8.625 -3.9375,12.84375 -3.9375,4.125 -10.125,4.125 -3.5625,0 -6.84375,-1.875 -3.28125,-1.875 -5.0625,-5.0625 -1.3125,-2.625 -1.59375,-6.09375 -0.28125,-3.46875 -0.28125,-10.03125 V 80.571671 q 0,-8.4375 3.65625,-12.65625 3.75,-4.21875 10.125,-4.21875 6.28125,0 10.125,4.21875 3.9375,4.125 3.9375,12.65625 z"
+       id="path824" />
+  </g>
 </svg>
