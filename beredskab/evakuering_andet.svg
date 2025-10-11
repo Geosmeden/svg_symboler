@@ -5,7 +5,7 @@
    width="400"
    height="400"
    viewBox="0, 0, 400,400"
-   sodipodi:docname="baare_kvadr.svg"
+   sodipodi:docname="evakuering_andet.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -46,13 +46,14 @@
      fill-rule="evenodd"
      style="fill:#ffffff"
      sodipodi:nodetypes="cccccccccccccccccc" />
-  <a
-     id="a2706"
-     transform="matrix(4.9855098,0,0,5.6428741,41.540429,31.425684)"
-     style="fill:#ffffff;stroke-width:0.188537">
-    <path
-       id="path2"
-       d="m 55.872078,19.939067 -0.141669,20.04172 C 44.040034,39.905632 30.383944,40.041108 7.6875,39.96875 7.6875,34.635417 7.57746,22.304207 8,20 30.973208,19.94151 32.743636,19.9579 55.872078,19.93907 Z M 0,22 c 0,-1.104569 0.8954305,-2 2,-2 h 6 v 4.07767 L 2,24 C 0.89552304,23.985703 0,23.104569 0,22 Z M 0,38 C 0,36.895431 0.8954305,36 2,36 H 8 L 7.6875,39.96875 2,40 C 0.90834698,39.831574 0,39.104569 0,38 Z m 54.148505,-18.083024 7.553398,0.03883 c 2.988143,0.05896 3.148184,3.992492 0,4 l -7.428165,-0.02144 c -0.191524,-3.929005 -0.219314,-0.922051 -0.125233,-4.017393 z m 0.07427,16.070598 7.553398,0.03883 c 2.988143,0.05896 3.148184,3.992492 0,4 l -7.415225,-0.03232 c -0.191524,-3.929007 -0.232258,-0.911168 -0.138177,-4.00651 z"
-       style="fill:#ffffff;stroke-width:0.188537" />
-  </a>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:Stencil;-inkscape-font-specification:Stencil;fill:#ffffff"
+     x="133.18323"
+     y="332.27155"
+     id="text9801"><tspan
+       sodipodi:role="line"
+       id="tspan9799"
+       x="133.18323"
+       y="332.27155">!</tspan></text>
 </svg>
