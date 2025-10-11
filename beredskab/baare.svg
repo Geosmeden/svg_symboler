@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="75.529999"
+   height="32.405003"
+   viewBox="0 0 75.529999 32.405003"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="baare.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     lock-margins="true"
+     fit-margin-top="0.2"
+     fit-margin-left="0.2"
+     fit-margin-right="0.2"
+     fit-margin-bottom="0.2"
+     inkscape:zoom="2"
+     inkscape:cx="-4.5"
+     inkscape:cy="53.25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:2.005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6319"
+     width="73.125"
+     height="30.000002"
+     x="1.2025001"
+     y="1.2025001" />
+  <!-- Stretcher med integrerede, symmetriske afrundede hjørnehåndtag -->
+  <a
+     id="a2706"
+     transform="translate(5.3274996,-13.672501)">
+    <path
+       id="path2"
+       d="m 55.872078,19.939067 -0.141669,20.04172 C 44.040034,39.905632 30.383944,40.041108 7.6875,39.96875 7.6875,34.635417 7.57746,22.304207 8,20 30.973208,19.94151 32.743636,19.9579 55.872078,19.93907 Z M 0,22 c 0,-1.104569 0.8954305,-2 2,-2 h 6 v 4.07767 L 2,24 C 0.89552304,23.985703 0,23.104569 0,22 Z M 0,38 C 0,36.895431 0.8954305,36 2,36 H 8 L 7.6875,39.96875 2,40 C 0.90834698,39.831574 0,39.104569 0,38 Z m 54.148505,-18.083024 7.553398,0.03883 c 2.988143,0.05896 3.148184,3.992492 0,4 l -7.428165,-0.02144 c -0.191524,-3.929005 -0.219314,-0.922051 -0.125233,-4.017393 z m 0.07427,16.070598 7.553398,0.03883 c 2.988143,0.05896 3.148184,3.992492 0,4 l -7.415225,-0.03232 c -0.191524,-3.929007 -0.232258,-0.911168 -0.138177,-4.00651 z"
+       style="fill:#000000" />
+  </a>
+</svg>
