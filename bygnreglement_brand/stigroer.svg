@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7.5009341mm"
+   height="7.498292mm"
+   viewBox="0 0 7.5009341 7.498292"
+   version="1.1"
+   id="svg9160"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="stigroer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9162"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="11.859035"
+     inkscape:cx="13.238852"
+     inkscape:cy="19.099362"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs9157" />
+  <g
+     inkscape:label="Lag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-96.915396,-91.562158)">
+    <rect
+       class="cls-3"
+       x="97.161461"
+       y="91.792313"
+       width="7.0088124"
+       height="7.0088124"
+       id="rect6374"
+       style="fill:#ffffff;stroke-width:0.264583" />
+    <path
+       class="cls-14"
+       d="m 96.915396,91.562158 v 7.498292 h 7.500934 v -7.498292 z m 0.494771,0.47625 h 6.514043 v 1.852084 h -6.514043 z m 6.516683,6.519334 h -6.516683 v -4.180417 h 6.514043 z"
+       id="path6376"
+       style="fill:#bc2231;stroke-width:0.264583" />
+    <polygon
+       class="cls-17"
+       points="29.79,3423.6 29.79,3423.14 28.39,3423.14 28.39,3426.02 29.79,3426.02 29.79,3425.44 39.65,3425.44 39.65,3418.32 37.81,3415.31 37.81,3423.6 "
+       id="polygon6382"
+       style="fill:#211e1f;stroke-width:0.927158"
+       transform="matrix(0.23684356,0,0,0.3438398,92.60977,-1079.6707)" />
+  </g>
+</svg>
